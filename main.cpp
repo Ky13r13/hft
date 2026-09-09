@@ -12,6 +12,7 @@ enum class Signal {
     Short, 
     Hold
 };
+//email test
 class Strategy {
     public:
         virtual ~Strategy() = default;
